@@ -5,7 +5,7 @@
 Milestone1-SupplementSales
 │
 ├── P0M1_Khalif_Santoso_Dataset.csv # Dataset (Supplement Sales)
-├── P0M1_Khalif_Santoso.ipynb # Jupyter Notebook (data analysis & outcomes)
+├── Data_Analysis_Notebook.ipynb 
 └── README.md # Documentation
 ```
 
